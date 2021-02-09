@@ -1,0 +1,40 @@
+c:\users\jesús\source\repos\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csprojResolveAssemblyReference.cache
+c:\users\jesús\source\repos\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.CLIENT.LoginForm.resources
+c:\users\jesús\source\repos\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.MovieLibraryForm.resources
+c:\users\jesús\source\repos\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.Properties.Resources.resources
+c:\users\jesús\source\repos\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csproj.GenerateResource.cache
+c:\users\jesús\source\repos\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csproj.CoreCompileInputs.cache
+c:\users\jesús\source\repos\MovieLibraryApplication\MovieLibraryApplication\bin\Debug\MovieLibraryApplication.exe
+c:\users\jesús\source\repos\MovieLibraryApplication\MovieLibraryApplication\bin\Debug\MovieLibraryApplication.pdb
+c:\users\jesús\source\repos\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.exe
+c:\users\jesús\source\repos\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.pdb
+C:\Users\zhangzhibo\Desktop\MovieLibraryApplication\MovieLibraryApplication\bin\Debug\MovieLibraryApplication.exe
+C:\Users\zhangzhibo\Desktop\MovieLibraryApplication\MovieLibraryApplication\bin\Debug\MovieLibraryApplication.pdb
+C:\Users\zhangzhibo\Desktop\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csprojResolveAssemblyReference.cache
+C:\Users\zhangzhibo\Desktop\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.CLIENT.LoginForm.resources
+C:\Users\zhangzhibo\Desktop\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.MovieLibraryForm.resources
+C:\Users\zhangzhibo\Desktop\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.Properties.Resources.resources
+C:\Users\zhangzhibo\Desktop\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csproj.GenerateResource.Cache
+C:\Users\zhangzhibo\Desktop\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csproj.CoreCompileInputs.cache
+C:\Users\zhangzhibo\Desktop\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.exe
+C:\Users\zhangzhibo\Desktop\MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.pdb
+C:\Users\zhangzhibo\Desktop\Project 1(Part 1)MovieLibraryApplication\MovieLibraryApplication\bin\Debug\MovieLibraryApplication.exe
+C:\Users\zhangzhibo\Desktop\Project 1(Part 1)MovieLibraryApplication\MovieLibraryApplication\bin\Debug\MovieLibraryApplication.pdb
+C:\Users\zhangzhibo\Desktop\Project 1(Part 1)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csprojResolveAssemblyReference.cache
+C:\Users\zhangzhibo\Desktop\Project 1(Part 1)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.CLIENT.LoginForm.resources
+C:\Users\zhangzhibo\Desktop\Project 1(Part 1)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.MovieLibraryForm.resources
+C:\Users\zhangzhibo\Desktop\Project 1(Part 1)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.Properties.Resources.resources
+C:\Users\zhangzhibo\Desktop\Project 1(Part 1)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csproj.GenerateResource.Cache
+C:\Users\zhangzhibo\Desktop\Project 1(Part 1)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csproj.CoreCompileInputs.cache
+C:\Users\zhangzhibo\Desktop\Project 1(Part 1)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.exe
+C:\Users\zhangzhibo\Desktop\Project 1(Part 1)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.pdb
+C:\Users\zhangzhibo\Desktop\Project 1(Part 2)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csprojResolveAssemblyReference.cache
+C:\Users\zhangzhibo\Desktop\Project 1(Part 2)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.CLIENT.LoginForm.resources
+C:\Users\zhangzhibo\Desktop\Project 1(Part 2)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.MovieLibraryForm.resources
+C:\Users\zhangzhibo\Desktop\Project 1(Part 2)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.Properties.Resources.resources
+C:\Users\zhangzhibo\Desktop\Project 1(Part 2)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csproj.GenerateResource.Cache
+C:\Users\zhangzhibo\Desktop\Project 1(Part 2)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.csproj.CoreCompileInputs.cache
+C:\Users\zhangzhibo\Desktop\Project 1(Part 2)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.exe
+C:\Users\zhangzhibo\Desktop\Project 1(Part 2)MovieLibraryApplication\MovieLibraryApplication\obj\Debug\MovieLibraryApplication.pdb
+C:\Users\zhangzhibo\Desktop\Project 1(Part 2)MovieLibraryApplication\MovieLibraryApplication\bin\Debug\MovieLibraryApplication.exe
+C:\Users\zhangzhibo\Desktop\Project 1(Part 2)MovieLibraryApplication\MovieLibraryApplication\bin\Debug\MovieLibraryApplication.pdb
